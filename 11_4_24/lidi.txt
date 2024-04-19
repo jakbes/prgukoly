@@ -1,0 +1,3 @@
+Jan Kotlarik ma hmotnost 75kg, vysku 200cm a BMI 18.750000
+Michal Matejica ma hmotnost 350kg, vysku 155cm a BMI 145.681582
+Atom Minarik ma hmotnost -1027238834kg, vysku 0cm a BMI -1.#INF00
