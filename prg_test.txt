@@ -1,0 +1,1975 @@
+Čím je datová struktura podobná poli?
+Úloha 1Odpověď
+
+a.
+všechny prvky mají stejný datový typ
+
+b.
+má více prvků
+
+c.
+dá se k poli i ke struktuře přistupovat pomocí ukazatele
+
+d.
+prvky se rozlišují pomocí indexů
+
+e.
+všechny prvky mají stejné jméno
+Reakce
+Správné odpovědi jsou: má více prvků, dá se k poli i ke struktuře přistupovat pomocí ukazatele
+Částečně správně
+Bodový zisk: 0,50/1,00.
+Úloha 2
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Co je datová struktura?
+Úloha 2Odpověď
+
+a.
+Struktura sdružující různé proměnné, různých datových typů (včetně polí)
+
+b.
+struktura, která rozhoduje o další běhu programu
+
+c.
+struktura, která je určena výhradně pro načítání dat
+
+d.
+struktura, která je výhradně určena k zápisu dat
+
+e.
+struktura, která obsahuje všechna data aplikace
+Reakce
+Správná odpověď je: Struktura sdružující různé proměnné, různých datových typů (včetně polí).
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 3
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Co je předávání argumentů funkci hodnotou?
+Úloha 3Odpověď
+
+a.
+zkopírování hodnot ze vstupu programu
+
+b.
+argumenty jsou předány do funkce pomocí ukazatelů
+
+c.
+kopírování hodnot do argumentů funkce
+
+d.
+zkopírování všech hodnot proměnných v hlavním běhu
+
+e.
+žádné hodnoty se nepředávají
+Reakce
+Správná odpověď je: kopírování hodnot do argumentů funkce.
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 4
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Co je předávání argumentů funkci odkazem?
+Úloha 4Odpověď
+
+a.
+argumenty jsou předány do funkce pomocí ukazatelů
+
+b.
+kopírování všech hodnot proměnných v hlavním běhu
+
+c.
+kopírování hodnot ze vstupu programu
+
+d.
+žádné hodnoty se nepředávají
+
+e.
+kopírování hodnot do argumentů funkce
+Reakce
+Správná odpověď je: argumenty jsou předány do funkce pomocí ukazatelů.
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 5
+Částečně správně
+Bodů 0,33 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Co je to pole?
+Úloha 5Odpověď
+
+a.
+souvislý kus paměti
+
+b.
+určitý počet prvků stejného typu se stejným názvem
+
+c.
+několik stejných proměnných
+
+d.
+datová struktura
+
+e.
+proměnné v jednom souboru
+Reakce
+Správné odpovědi jsou: určitý počet prvků stejného typu se stejným názvem, souvislý kus paměti, datová struktura
+Částečně správně
+Bodový zisk: 0,33/1,00.
+Úloha 6
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Co jsou to escape sekvence?
+Úloha 6Odpověď
+
+a.
+kombinace znaků mezi nimiž musí být vždy mezera
+
+b.
+libovolné víceznakové sekvence
+
+c.
+dvojznaky s jednoznačně definovaným významem, např. - , \t, '\0'
+
+d.
+nepovolené kombinace dvou znaků
+
+e.
+předem definované "trojznaky"
+Reakce
+Správná odpověď je: dvojznaky s jednoznačně definovaným významem, např. - , \t, '\0'.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 7
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Co od sebe odlišuje prvky v poli?
+Úloha 7Odpověď
+
+a.
+prvky nelze rozlišit
+
+b.
+datový typ
+
+c.
+jejich jméno
+
+d.
+jejich počet
+
+e.
+index
+Reakce
+Správná odpověď je: index.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 8
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Co znamená case sensitive?
+Úloha 8Odpověď
+
+a.
+rozeznávání velkých písmen a číslic
+
+b.
+rozeznávání malých a velkých písmen
+
+c.
+rozeznávání malých písmen a číslic
+
+d.
+rozeznávání řetězců
+
+e.
+rozeznávání národních abeced
+Reakce
+Správná odpověď je: rozeznávání malých a velkých písmen.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 9
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Direktiva #define SUMA(a,b) ((a)+(b)) je....
+Úloha 9Odpověď
+
+a.
+symbolická konstanta
+
+b.
+funkce bez parametru
+
+c.
+makro bez parametru
+
+d.
+funkce s parametrem
+
+e.
+makro s parametrem
+Reakce
+Správná odpověď je: makro s parametrem.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 10
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Direktiva #define X 10 je ....
+Úloha 10Odpověď
+
+a.
+funkce bez parametru
+
+b.
+makro s parametrem
+
+c.
+makro bez parametru
+
+d.
+funkce s parametrem
+
+e.
+symbolická konstanta
+Reakce
+Správné odpovědi jsou: makro bez parametru, symbolická konstanta
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 11
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Funkce pro čtení znaku z textového souboru je ....
+Úloha 11Odpověď
+
+a.
+fprintf()
+
+b.
+fscanf()
+
+c.
+putc()
+
+d.
+getc()
+
+e.
+gets()
+Reakce
+Správná odpověď je: getc().
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 12
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Funkce pro formátované čtení z textového souboru je ....
+Úloha 12Odpověď
+
+a.
+gets()
+
+b.
+getc()
+
+c.
+fscanf()
+
+d.
+fprintf()
+
+e.
+putc()
+Reakce
+Správná odpověď je: fscanf().
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 13
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Funkce pro formátované čtení ze stdin je ...
+Úloha 13Odpověď
+
+a.
+putchar()
+
+b.
+scanf()
+
+c.
+printf()
+
+d.
+getchar()
+
+e.
+gets()
+Reakce
+Správná odpověď je: scanf().
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 14
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Funkce pro formátovaný výpis na stdin je ...
+Úloha 14Odpověď
+
+a.
+printf()
+
+b.
+scanf()
+
+c.
+getchar()
+
+d.
+gets()
+
+e.
+putchar()
+Reakce
+Správná odpověď je: printf().
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 15
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Funkce pro formátovaný zápis do textového souboru je ....
+Úloha 15Odpověď
+
+a.
+getc()
+
+b.
+fscanf()
+
+c.
+gets()
+
+d.
+fprintf()
+
+e.
+putc()
+Reakce
+Správná odpověď je: fprintf().
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 16
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Funkce pro načtení znaku ze stdin je ...
+Úloha 16Odpověď
+
+a.
+gets()
+
+b.
+putchar()
+
+c.
+printf()
+
+d.
+scanf()
+
+e.
+getchar()
+Reakce
+Správná odpověď je: getchar().
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 17
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Funkce pro výpis znaku na stdin je ....
+Úloha 17Odpověď
+
+a.
+getchar()
+
+b.
+scanf()
+
+c.
+gets()
+
+d.
+putchar()
+
+e.
+printf()
+Reakce
+Správná odpověď je: putchar().
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 18
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Funkce pro zápis znaku do textového souboru je ....
+Úloha 18Odpověď
+
+a.
+putc()
+
+b.
+getc()
+
+c.
+fprintf()
+
+d.
+gets()
+
+e.
+fscanf()
+Reakce
+Správná odpověď je: putc().
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 19
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Globální proměnná platí ....
+Úloha 19Odpověď
+
+a.
+v proceduře
+
+b.
+v celém programu
+
+c.
+ve funkci
+
+d.
+v hlavičkovém souboru
+
+e.
+nikde
+Reakce
+Správná odpověď je: v celém programu.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 20
+Částečně správně
+Bodů 0,33 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Hlavičkové soubory slouží k .....
+Úloha 20Odpověď
+
+a.
+deklaraci procedur
+
+b.
+deklaraci funkcí
+
+c.
+k zadávání hodnot
+
+d.
+deklaraci maker
+
+e.
+rozvoji maker
+Reakce
+Správné odpovědi jsou: deklaraci funkcí, deklaraci maker, deklaraci procedur
+Částečně správně
+Bodový zisk: 0,33/1,00.
+Úloha 21
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Jak vytvoříme blok programu?
+Úloha 21Odpověď
+
+a.
+uzavřením kódu do uvozovek
+
+b.
+uzavřením kódu do hranatých závorek
+
+c.
+uzavřením kódu do složených závorek
+
+d.
+uzavřením kódu do kulatých závorek
+
+e.
+nelze vytvořit
+Reakce
+Správná odpověď je: uzavřením kódu do složených závorek.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 22
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Jaká je funkce pro kopírování z pole do pole?
+Úloha 22Odpověď
+
+a.
+strcmp()
+
+b.
+strlen()
+
+c.
+strcat()
+
+d.
+strcpy()
+
+e.
+strtol()
+Reakce
+Správná odpověď je: strcpy().
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 23
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Jaká je funkce pro porovnání řetězců ze dvou polí?
+Úloha 23Odpověď
+
+a.
+strtol()
+
+b.
+strlen()
+
+c.
+strcmp()
+
+d.
+strcat()
+
+e.
+strcpy()
+Reakce
+Správná odpověď je: strcmp().
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 24
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Jaká je funkce pro zřetězení řetězců ze dvou polí?
+Úloha 24Odpověď
+
+a.
+strlen()
+
+b.
+strcat()
+
+c.
+strtol()
+
+d.
+strcmp()
+
+e.
+strcpy()
+Reakce
+Správná odpověď je: strcat().
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 25
+Částečně správně
+Bodů 0,33 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Jaké vlastnosti má pole?
+Úloha 25Odpověď
+
+a.
+všechny prvky zabírají v paměti stejné místo
+
+b.
+všechny prvky mají stejný datový typ
+
+c.
+všechny prvky mají stejné jméno
+
+d.
+ke všem prvkům se přistupuje výhradně přes procedury
+
+e.
+ke všem prvkům se přistupuje výhradně přes funkce
+Reakce
+Správné odpovědi jsou: všechny prvky mají stejný datový typ, všechny prvky mají stejné jméno, všechny prvky zabírají v paměti stejné místo
+Částečně správně
+Bodový zisk: 0,33/1,00.
+Úloha 26
+Částečně správně
+Bodů 0,67 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Jaké základní režimy práce s textovým souborem znáte?
+Úloha 26Odpověď
+
+a.
+a - zápis na konec txt souboru
+
+b.
+r-- čtení ze souboru s odebráním znaku
+
+c.
+r - čtení z txt souboru
+
+d.
+w - zápis do txt souboru
+
+e.
+r++ čtení ze souboru s přidáním znaku
+Reakce
+Správné odpovědi jsou: r - čtení z txt souboru, w - zápis do txt souboru, a - zápis na konec txt souboru
+Částečně správně
+Bodový zisk: 0,67/1,00.
+Úloha 27
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Jakou konvenci obvykle při zápisu makra dodržujeme?
+Úloha 27Odpověď
+
+a.
+název makra píšeme malými písmeny
+
+b.
+název makra píšeme velkými písmeny
+
+c.
+název makra píšeme velbloudí notací
+
+d.
+název makra píšeme libovolně
+
+e.
+v názvu makra používáme mezery
+Reakce
+Správná odpověď je: název makra píšeme velkými písmeny.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 28
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Jakou řídící strukturu můžeme nahradit ternárním operátorem?
+Úloha 28Odpověď
+
+a.
+do-while
+
+b.
+žádnou
+
+c.
+for
+
+d.
+if-else
+
+e.
+while
+Reakce
+Správná odpověď je: if-else.
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 29
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+K čemu slouží dekrementace?
+Úloha 29Odpověď
+
+a.
+ke snížení hodnoty proměnné
+
+b.
+k rozeznávání velkých a malých čísel
+
+c.
+k převodu celého čísla na reálné
+
+d.
+ke zvýšení hodnoty proměnné
+
+e.
+k zadávání hodnot
+Reakce
+Správná odpověď je: ke snížení hodnoty proměnné.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 30
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+K čemu slouží inkrementace?
+Úloha 30Odpověď
+
+a.
+k rozeznávání velkých a malých čísel
+
+b.
+ke snížení hodnoty proměnné
+
+c.
+k zadávání hodnot
+
+d.
+k převodu celého čísla na reálné
+
+e.
+ke zvýšení hodnoty proměnné
+Reakce
+Správná odpověď je: ke zvýšení hodnoty proměnné.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 31
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+K zavedení hlavičkových souborů a rozvoji maker slouží ....
+Úloha 31Odpověď
+
+a.
+editor
+
+b.
+kopmlilátor
+
+c.
+debugger
+
+d.
+procesor
+
+e.
+preprocesor
+Reakce
+Správná odpověď je: preprocesor.
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 32
+Částečně správně
+Bodů 0,33 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Kód uzavřený do složených závorek je ....
+Úloha 32Odpověď
+
+a.
+blok programu
+
+b.
+seznam argumentů procedury
+
+c.
+tělo funkce
+
+d.
+seznam argumentů funkce
+
+e.
+tělo procedury
+Reakce
+Správné odpovědi jsou: tělo funkce, blok programu, tělo procedury
+Částečně správně
+Bodový zisk: 0,33/1,00.
+Úloha 33
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Kolik prvků v poli potřebujeme pro N prvkový řetězec?
+Úloha 33Odpověď
+
+a.
+N+1 prvků
+
+b.
+N+2 prvků
+
+c.
+N-2 prvků
+
+d.
+N-1 prvků
+
+e.
+N prvků
+Reakce
+Správná odpověď je: N+1 prvků.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 34
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Která funkce převede číselný řetězec na celé číslo?
+Úloha 34Odpověď
+
+a.
+atol()
+
+b.
+atok()
+
+c.
+atof()
+
+d.
+atop()
+
+e.
+atoi()
+Reakce
+Správná odpověď je: atoi().
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 35
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Která konstanta je celočíselná?
+Úloha 35Odpověď
+
+a.
+"9"
+
+b.
+'9'
+
+c.
+"9.9"
+
+d.
+9.9
+
+e.
+9
+Reakce
+Správná odpověď je: 9.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 36
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Která konstanta je reálná?
+Úloha 36Odpověď
+
+a.
+"9.9"
+
+b.
+"9"
+
+c.
+9
+
+d.
+'9'
+
+e.
+9.9
+Reakce
+Správná odpověď je: 9.9.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 37
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Která konstanta je řetězcová?
+Úloha 37Odpověď
+
+a.
+"9"
+
+b.
+'9'
+
+c.
+'A'
+
+d.
+9
+
+e.
+9.9
+Reakce
+Správná odpověď je: "9".
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 38
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Která konstanta je znaková?
+Úloha 38Odpověď
+
+a.
+"9"
+
+b.
+9
+
+c.
+"9.9"
+
+d.
+9.9
+
+e.
+'9'
+Reakce
+Správná odpověď je: '9'.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 39
+Částečně správně
+Bodů 0,50 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Která z podmínek je napsaná nesprávně?
+Úloha 39Odpověď
+
+a.
+if(a==0)
+
+b.
+if(a<=0)
+
+c.
+if(a=0)
+
+d.
+if(a=<0)
+
+e.
+if(a>=0)
+Reakce
+Správné odpovědi jsou: if(a=0), if(a=<0)
+Částečně správně
+Bodový zisk: 0,50/1,00.
+Úloha 40
+Částečně správně
+Bodů 0,33 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Která z podmínek je napsaná správně?
+Úloha 40Odpověď
+
+a.
+if(a<0)
+
+b.
+if(a<>0)
+
+c.
+if(a=0)
+
+d.
+if(a==0)
+
+e.
+if(a<=0)
+Reakce
+Správné odpovědi jsou: if(a==0), if(a<0), if(a<=0)
+Částečně správně
+Bodový zisk: 0,33/1,00.
+Úloha 41
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Které aritmetické operace s ukazateli mají smysl? (s obsahem ukazatele)
+Úloha 41Odpověď
+
+a.
+součin
+
+b.
+dekrementace
+
+c.
+inkrementace
+
+d.
+podíl
+
+e.
+mocnina
+Reakce
+Správné odpovědi jsou: inkrementace, dekrementace
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 42
+Částečně správně
+Bodů 0,25 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Které datové typy jazyk C používá?
+Úloha 42Odpověď
+
+a.
+void, char, short, int, long, float,
+
+b.
+void, char, short, int, long, long long, float, double, long double
+
+c.
+void, char, short, int, long, string, float, double, long double
+
+d.
+char, int, float, double
+
+e.
+char, short, int, long, long long,
+Reakce
+Správné odpovědi jsou: void, char, short, int, long, long long, float, double, long double, void, char, short, int, long, float,, char, int, float, double, char, short, int, long, long long,
+Částečně správně
+Bodový zisk: 0,25/1,00.
+Úloha 43
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Které dělení je celočíselné?
+Úloha 43Odpověď
+
+a.
+int/int
+
+b.
+int/float
+
+c.
+int/double
+
+d.
+double/int
+
+e.
+double/double
+Reakce
+Správná odpověď je: int/int.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 44
+Částečně správně
+Bodů 0,33 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Které dělení je reálné?
+Úloha 44Odpověď
+
+a.
+int/int
+
+b.
+int/double
+
+c.
+double/int
+
+d.
+double/double
+
+e.
+int/char
+Reakce
+Správné odpovědi jsou: int/double, double/int, double/double
+Částečně správně
+Bodový zisk: 0,33/1,00.
+Úloha 45
+Částečně správně
+Bodů 0,50 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Které klíčové slovo se používá při vytvoření nové datové struktury?
+Úloha 45Odpověď
+
+a.
+signed
+
+b.
+return
+
+c.
+struct
+
+d.
+typedef
+
+e.
+unsigned
+Reakce
+Správné odpovědi jsou: struct, typedef
+Částečně správně
+Bodový zisk: 0,50/1,00.
+Úloha 46
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Které klíčové slovo se používá při vytvoření nového datového typu z datové struktury?
+Úloha 46Odpověď
+
+a.
+return
+
+b.
+typedef
+
+c.
+struct
+
+d.
+signed
+
+e.
+unsigned
+Reakce
+Správná odpověď je: typedef.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 47
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Které přetypování je bezpečné?
+Úloha 47Odpověď
+
+a.
+double->float->int->char
+
+b.
+char->int->float->double
+
+c.
+float->int->char->double
+
+d.
+int->float->double->char
+
+e.
+double->char->int->float
+Reakce
+Správná odpověď je: char->int->float->double.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 48
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Které řídící struktury pracují podle stejného algoritmu?
+Úloha 48Odpověď
+
+a.
+switch a for
+
+b.
+while a do-while
+
+c.
+for a do-while
+
+d.
+while a for
+
+e.
+while a switch
+Reakce
+Správná odpověď je: while a for.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 49
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Který cyklus testuje podmínku na konci běhu?
+Úloha 49Odpověď
+
+a.
+do-while
+
+b.
+switch
+
+c.
+for
+
+d.
+while
+
+e.
+if-else
+Reakce
+Správná odpověď je: do-while.
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 50
+Částečně správně
+Bodů 0,50 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Který cyklus testuje podmínku na začátku běhu?
+Úloha 50Odpověď
+
+a.
+while
+
+b.
+for
+
+c.
+switch
+
+d.
+do-while
+
+e.
+if-else
+Reakce
+Správné odpovědi jsou: while, for
+Částečně správně
+Bodový zisk: 0,50/1,00.
+Úloha 51
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Který operátor nepatří mezi relační ....
+Úloha 51Odpověď
+
+a.
+>
+
+b.
+<
+
+c.
+==
+
+d.
+=
+
+e.
+!=
+Reakce
+Správná odpověď je: =.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 52
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Který z příkazů načte hodnotu ze vstupu v hexadecimálním tvaru?
+Úloha 52Odpověď
+
+a.
+scanf(“%d“,&číslo);
+
+b.
+scanf(“%s“,&číslo);
+
+c.
+scanf(“%c“,&číslo);
+
+d.
+scanf(“%X“,&číslo);
+
+e.
+scanf(“%x“,&číslo);
+Reakce
+Správné odpovědi jsou: scanf(“%X“,&číslo);, scanf(“%x“,&číslo);
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 53
+Částečně správně
+Bodů 0,50 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Lokální proměnná platí ....
+Úloha 53Odpověď
+
+a.
+v hlavičkovém souboru
+
+b.
+ve funkci
+
+c.
+v proceduře
+
+d.
+nikde
+
+e.
+v celém programu
+Reakce
+Správné odpovědi jsou: ve funkci, v proceduře
+Částečně správně
+Bodový zisk: 0,50/1,00.
+Úloha 54
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Nekonečný cyklus v jazyku C vytvoříme ....
+Úloha 54Odpověď
+
+a.
+while(1)
+
+b.
+while(false)
+
+c.
+for(1)
+
+d.
+for(;;)
+
+e.
+while(;;)
+Reakce
+Správné odpovědi jsou: while(1), for(;;)
+Úloha 55
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Pravda nebo nepravda je výsledkem ...
+Úloha 55Odpověď
+
+a.
+relace
+
+b.
+procedury
+
+c.
+iterace
+
+d.
+funkce
+
+e.
+přiřazení
+Reakce
+Správná odpověď je: relace.
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 56
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Přiřazení je reprezentováno znaménkem ....
+Úloha 56Odpověď
+
+a.
+=
+
+b.
+-
+
+c.
++
+
+d.
+*
+
+e.
+==
+Reakce
+Správná odpověď je: =.
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 57
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Proč je nutné testovat výjimečné stavy programu?
+Úloha 57Odpověď
+
+a.
+abychom zamezili pádu aplikace
+
+b.
+abychom eliminovali chyby v aplikaci
+
+c.
+aby spolu správně komunikovaly HW prvky PC
+
+d.
+abychom zamezili chybovým stavům
+
+e.
+abychom správně spustili program
+Reakce
+Správné odpovědi jsou: abychom zamezili pádu aplikace, abychom zamezili chybovým stavům, abychom eliminovali chyby v aplikaci
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 58
+Částečně správně
+Bodů 0,33 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Proč provádíme test otevření a zavření textového souboru?
+Úloha 58Odpověď
+
+a.
+abychom správně ukončili program
+
+b.
+abychom správně spustili program
+
+c.
+abychom správně volali funkce
+
+d.
+abychom zamezili chybovým stavům
+
+e.
+abychom zamezili pádu aplikace
+Reakce
+Správné odpovědi jsou: abychom zamezili pádu aplikace, abychom zamezili chybovým stavům, abychom správně ukončili program
+Částečně správně
+Bodový zisk: 0,33/1,00.
+Úloha 59
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Proč se v Jazyku C v cestách k souboru (přes adresářovou strukturu) uvádí vždy dvě obrácená lomítka za sebou?
+Úloha 59Odpověď
+
+a.
+funkce je implicitně vyžadují
+
+b.
+s jednoduchým lomítkem neumí C pracovat
+
+c.
+z důvodu odstranění vlivu escpe sekvencí
+
+d.
+na jedno zpětné lomítko není brán zřetel
+
+e.
+dvě zpětná lomítka se nepoužívají
+Reakce
+Správná odpověď je: z důvodu odstranění vlivu escpe sekvencí.
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 60
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Rozvoj makra probíhá ....
+Úloha 60Odpověď
+
+a.
+v linkeru
+
+b.
+v debuggeru
+
+c.
+v editoru
+
+d.
+v kompilátoru
+
+e.
+v preprocesoru
+Reakce
+Správná odpověď je: v preprocesoru.
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 61
+Částečně správně
+Bodů 0,50 / 1,00
+Úloha s vlaječkou
+Text úlohy
+V jakých formátech lze zapsat proměnnou?
+Úloha 61Odpověď
+
+a.
+%x
+
+b.
+%X
+
+c.
+%d
+
+d.
+%q
+
+e.
+%c
+Reakce
+Správné odpovědi jsou: %d, %x, %X, %c
+Částečně správně
+Bodový zisk: 0,50/1,00.
+Úloha 62
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Co je obsahem ukazatele?
+Odpověď: Úloha 62
+*
+Reakce
+Správná odpověď je: adresa
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 63
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Co je proměnná?
+Odpověď: Úloha 63
+int
+Reakce
+Správná odpověď je: Vyhrazená část paměti
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 64
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Co je to iterace?
+Odpověď: Úloha 64
+nevim
+Reakce
+Správná odpověď je: opakování
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 65
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+co je to kompilace?
+Odpověď: Úloha 65
+sestavim ten program
+Reakce
+Správná odpověď je: Překlad syntaxe do strojového kódu
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 66
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Co sdružuje písmena, číslice a další znaky?
+Odpověď: Úloha 66
+nevim
+Reakce
+Správná odpověď je: ASCII tabulka
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 67
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Co vrací funkce otevírající textový soubor při správném otevření souboru?
+Odpověď: Úloha 67
+true
+Reakce
+Správná odpověď je: ukazatel
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 68
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Dělení jehož výsledkem je zbytek nazýváme?
+Odpověď: Úloha 68
+zbytkovy
+Reakce
+Správná odpověď je: modulo
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 69
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Hodnota, kterou funkce po svém provedení vrátí se nazývá ....
+Odpověď: Úloha 69
+return value
+Reakce
+Správná odpověď je: návratová hodnota
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 70
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Hodnoty, které vstupují do funkce a jsou v ní zpracovány se nazývají ....
+Odpověď: Úloha 70
+nevim
+Reakce
+Správná odpověď je: argumenty
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 71
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Jak se nazývá proces odstraňování chyb v programu?
+Odpověď: Úloha 71
+debugging
+Reakce
+Správná odpověď je: debuggování
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 72
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Jakou hodnotu vrací funkce otevírající textový soubor při nemožnosti jeho otevření?
+Odpověď: Úloha 72
+to co strcime do returnu
+Reakce
+Správná odpověď je: NULL
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 73
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Jakou hodnotu vrací funkce pro porovnávání řetězců při dvou stejných řetězcích?
+Odpověď: Úloha 73
+nemam tuseni
+Reakce
+Správná odpověď je: 0
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 74
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Jakým slovem označujeme názvy proměnných, funkcí a procedur?
+Odpověď: Úloha 74
+kod
+Reakce
+Správná odpověď je: identifikátor
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 75
+Správně
+Bodů 1,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Jakým symbolem začínají příkazy pro preprocesor?
+Odpověď: Úloha 75
+#
+Reakce
+Správná odpověď je: #
+Správně
+Bodový zisk: 1,00/1,00.
+Úloha 76
+Nesprávně
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+K testování otevření souboru použijeme konstantu ....
+Odpověď: Úloha 76
+eof
+Reakce
+Správná odpověď je: NULL
+Nesprávně
+Bodový zisk: 0,00/1,00.
+Úloha 77
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+K testování uzavření souboru použijeme konstantu ...
+Odpověď: Úloha 77
+Reakce
+Správná odpověď je: EOF
+Úloha 78
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+K zaznamenání popisu programu, který se nekompiluje slouží ....
+Odpověď: Úloha 78
+Reakce
+Správná odpověď je: komentář
+Úloha 79
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Kolikrát proběhne cyklus for(i = 25;i <= 52; i = i +3)? (uveďte číslo)
+Odpověď: Úloha 79
+Reakce
+Správná odpověď je: 10
+Úloha 80
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Která funkce otevírá textový soubor?
+Odpověď: Úloha 80
+Reakce
+Správná odpověď je: fopen()
+Úloha 81
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Která funkce vrátí velikost zjišťovaného prvku (proměnné, struktury, pole) v bajtech?
+Odpověď: Úloha 81
+Reakce
+Správná odpověď je: sizeof()
+Úloha 82
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Která funkce zavírá textový soubor?
+Odpověď: Úloha 82
+Reakce
+Správná odpověď je: fclose()
+Úloha 83
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Které klíčové slovo zajistí skok na konec řídící struktury?
+Odpověď: Úloha 83
+Reakce
+Správná odpověď je: break
+Úloha 84
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Které klíčové slovo zajistí skok zpět na začátek řídící struktury?
+Odpověď: Úloha 84
+Reakce
+Správná odpověď je: continue
+Úloha 85
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Které základní datové typy znáte? (4 - uveďte od nejmenšího po největší, oddělte pouze mezerami)
+Odpověď: Úloha 85
+Reakce
+Správná odpověď je: char int float double
+Úloha 86
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Který prvek slouží k převodu syntaxe na strojový kód?
+Odpověď: Úloha 86
+Reakce
+Správná odpověď je: kompilátor
+Úloha 87
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Který prvek slouží ke spojení přeloženého programu s operačním systémem?
+Odpověď: Úloha 87
+Reakce
+Správná odpověď je: linker
+Úloha 88
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Který režim otevření textového souboru zajistí jeho vymazání a náhradu novým obsahem? (uveďte písmeno)
+Odpověď: Úloha 88
+Reakce
+Správná odpověď je: w
+Úloha 89
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Který režim otevření textového souboru zajistí možnost přečtení obsahu souboru? (uveďte písmeno)
+Odpověď: Úloha 89
+Reakce
+Správná odpověď je: r
+Úloha 90
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Který režim otevření textového souboru zajistí ponechání původního obsahu a přidá nový na konec souboru? (uveďte písmeno)
+Odpověď: Úloha 90
+Reakce
+Správná odpověď je: a
+Úloha 91
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Pointer pracující s textovým souborem ukazuje na .... (typ)
+Odpověď: Úloha 91
+Reakce
+Správná odpověď je: FILE
+Úloha 92
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Pomocí kterého klíčového slova se vrací hodnota?
+Odpověď: Úloha 92
+Reakce
+Správná odpověď je: return
+Úloha 93
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Použití (i opakované) dříve vytvořeného kódu na konkrétním místě, vždy s aktuálními argumenty nazýváme ....
+Odpověď: Úloha 93
+Reakce
+Správná odpověď je: volání funkce
+Úloha 94
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Převod z jednoho datového typu na jiný, např. int na double je .........datových typů
+Odpověď: Úloha 94
+Reakce
+Správná odpověď je: konverze
+Úloha 95
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Příkaz ke vložení, obvykle souboru je ....
+Odpověď: Úloha 95
+Reakce
+Správná odpověď je: #include
+Úloha 96
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Pro nalezení konce txt souboru při jeho čtení použijeme konstantu?
+Odpověď: Úloha 96
+Reakce
+Správná odpověď je: EOF
+Úloha 97
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+S jakou hodnotou opustí proměnná i cyklus for(i = 25;i <= 52; i = i +3)? (uveďte číslo)
+Odpověď: Úloha 97
+Reakce
+Správná odpověď je: 55
+Úloha 98
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Samostatně použitelný kus kódu, jehož provedením vytvoříme činnost, hodnotu nevrací (void) nazýváme ....
+Odpověď: Úloha 98
+Reakce
+Správná odpověď je: procedura
+Úloha 99
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Samostatně použitelný kus kódu, jehož provedením získáme hodnotu nazýváme ....
+Odpověď: Úloha 99
+Reakce
+Správná odpověď je: funkce
+Úloha 100
+Nezodpovězeno
+Bodů 0,00 / 1,00
+Úloha s vlaječkou
+Text úlohy
+Využití paměti HDD při práci s obsahem disku, např. čtení textového souboru nazýváme ....
+Odpověď: Úloha 100
+Reakce
+Správná odpověď je: bufferování
